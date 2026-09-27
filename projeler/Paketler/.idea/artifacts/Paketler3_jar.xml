@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Paketler3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Paketler3_jar</output-path>
+    <root id="archive" name="Paketler3.jar">
+      <element id="module-output" name="Paketler3" />
+    </root>
+  </artifact>
+</component>

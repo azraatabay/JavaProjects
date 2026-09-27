@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projeler/Calisanlar_projesi/Calisanlar_projesi.iml" filepath="$PROJECT_DIR$/projeler/Calisanlar_projesi/Calisanlar_projesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/OOP_ATM/OOP_ATM.iml" filepath="$PROJECT_DIR$/projeler/OOP_ATM/OOP_ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/OOp_giris/OOp_giris.iml" filepath="$PROJECT_DIR$/projeler/OOp_giris/OOp_giris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/PolyMorphism/PolyMorphism.iml" filepath="$PROJECT_DIR$/projeler/PolyMorphism/PolyMorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/Sarkici_Projesi/Sarkici_Projesi.iml" filepath="$PROJECT_DIR$/projeler/Sarkici_Projesi/Sarkici_Projesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/array/array.iml" filepath="$PROJECT_DIR$/projeler/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/beyblade/beyblade.iml" filepath="$PROJECT_DIR$/projeler/beyblade/beyblade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/composition/composition.iml" filepath="$PROJECT_DIR$/projeler/composition/composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/constructor/constructor.iml" filepath="$PROJECT_DIR$/projeler/constructor/constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/projeler/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/hafiza_oyunu/hafiza_oyunu.iml" filepath="$PROJECT_DIR$/projeler/hafiza_oyunu/hafiza_oyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/idman_programi/idman_programi.iml" filepath="$PROJECT_DIR$/projeler/idman_programi/idman_programi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/projeler/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java projects.iml" filepath="$PROJECT_DIR$/.idea/java projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/kucuk_projeler/kucuk_projeler.iml" filepath="$PROJECT_DIR$/projeler/kucuk_projeler/kucuk_projeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeler/overriding/overriding.iml" filepath="$PROJECT_DIR$/projeler/overriding/overriding.iml" />
+    </modules>
+  </component>
+</project>

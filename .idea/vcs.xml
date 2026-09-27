@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/AbstractClasslar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/BasitMatveFizikProblemlerleri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/CollectionFramework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/ExceptionHandling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/Generic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/GeometrikSekilHesaplama" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/InputOutputStream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/InterfaceKullaniciKayit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/LinkedList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/LocalveAnonimInnerClass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/Matematik_inner_classlar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/OOP_ATM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/OOp_giris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/Paketler/Threads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/Paketler/scope" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/Sarkici_Projesi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/StaticAnahtarKelimesi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/constructor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/hafiza_oyunu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/idman_programi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/kucuk_projeler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/overriding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projeler/yurtdisi_cikis_programi" vcs="Git" />
+  </component>
+</project>
