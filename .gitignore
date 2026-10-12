@@ -1,0 +1,11 @@
+# Derleme çıktıları
+out/
+build/
+dist/
+target/
+*.class
+
+# IDE dosyaları
+.idea/
+*.iml
+nbproject/private/
